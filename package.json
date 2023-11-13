@@ -1,0 +1,28 @@
+{
+  "name": "codember.dev-solutions",
+  "version": "1.0.0",
+  "description": "Solucion a retos codember de midu.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelisaias/codember.dev.git"
+  },
+  "keywords": [
+    "codember",
+    "soluctions",
+    "javascript",
+    "java",
+    "challenge",
+    "kata",
+    "programming"
+  ],
+  "author": "@joel_isaias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelisaias/codember.dev/issues"
+  },
+  "homepage": "https://github.com/joelisaias/codember.dev#readme"
+}
